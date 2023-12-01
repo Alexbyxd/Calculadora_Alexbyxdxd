@@ -1,0 +1,53 @@
+body {
+  font-family: Georgia, "Times New Roman", Times, serif;
+  background: #ffffff
+    url(https://img.freepik.com/fotos-premium/brillantes-estrellas-brillantes-fondo-abstracto-espacio_250994-1378.jpg)
+    center center/cover no-repeat padding-box;
+  padding-bottom: 50px;
+}
+
+h1 {
+  text-align: center;
+  margin-top: 30px;
+  color: rgb(162, 30, 170);
+}
+
+h2 {
+  text-align: center;
+  margin-top: 5px;
+  color: blueviolet;
+}
+
+.calculadora {
+  width: 400px;
+  height: 200px;
+  margin: 0 auto;
+  background-color: #ffffff;
+  border-radius: 10px;
+  padding: 20px;
+  box-shadow: 8px 6px 10px 4px #711c7d;
+  background-color: rgb(53, 43, 63);
+}
+
+#pantalla {
+  text-align: right;
+  padding: 10px;
+  width: 90%;
+  border-radius: 5px;
+  font-size: 30px;
+  margin-bottom: 10px;
+  
+}
+
+input[type="button"] {
+  width: 76px;
+  padding: 7px;
+  border-radius: 5px;
+  color: #ffffff;
+  height: 35px;
+  cursor: pointer;
+  font-size: 20px;
+  box-shadow: 11px 5px 9px 0px #362447;
+  background: #ffffff url(https://i.pinimg.com/474x/d8/22/c8/d822c8fc48f9378843b482c001373862.jpg) center center/cover no-repeat padding-box;
+}
+
